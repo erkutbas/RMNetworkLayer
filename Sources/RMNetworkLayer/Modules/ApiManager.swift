@@ -8,7 +8,7 @@
 import Foundation
 import Alamofire
 import RxSwift
-import NetworkEntityLayer
+import RMNetworkEntityLayer
 
 final public class ApiManager: ApiManagerProtocol {
     

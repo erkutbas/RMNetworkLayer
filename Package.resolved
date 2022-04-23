@@ -10,6 +10,15 @@
       }
     },
     {
+      "identity" : "rmnetworkentitylayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/erkutbas/RMNetworkEntityLayer.git",
+      "state" : {
+        "revision" : "0921a1c439afbab5c27f22a728e4a7619f4c7c33",
+        "version" : "1.0.0"
+      }
+    },
+    {
       "identity" : "rxswift",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/ReactiveX/RxSwift.git",
