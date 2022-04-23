@@ -1,11 +1,11 @@
 import XCTest
-@testable import RMRMRMNetworkLayer
+@testable import RMNetworkLayer
 
-final class RMRMRMNetworkLayerTests: XCTestCase {
+final class RMNetworkLayerTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(RMRMRMNetworkLayer().text, "Hello, World!")
+        XCTAssertEqual(RMNetworkLayer().text, "Hello, World!")
     }
 }
